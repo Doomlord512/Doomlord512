@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects so I can better develop my skills
 - 📫 How to reach me: Ask me for my contact
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite artist is Steve Lacy
+- ⚡ Fun fact: My username dates back to 2009 when I was first discovering RuneScape.
 
 <!---
 Doomlord512/Doomlord512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
