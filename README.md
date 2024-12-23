@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Doomlord512
-- 👀 I’m interested in security and automation
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on new projects so I can better develop my skills
-- 📫 How to reach me: Ask me for my contact
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My username dates back to 2009 when I was first discovering RuneScape.
+- 🐍 I’m currently learning learning Bash and Python scripting.
+- 🏅 Using this page as a dumping ground for all of my projects.
+- 📫 How to reach me: Send me a PM here and I'll get back to you
 
 <!---
 Doomlord512/Doomlord512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
